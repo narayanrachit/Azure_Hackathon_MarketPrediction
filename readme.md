@@ -1,10 +1,26 @@
 To run the program you need following softwares and python module :-
+
+
 → jupyter notebook
-→ Pandas 
+
+
+→ Pandas
+
+
 → NumPy
+
+
 → Scikit learn
+
+
 → Matplotlib
+
+
 → Keras
-→ PyCharm 
+
+
+→ PyCharm
+
+
 → Tensorflow
 
